@@ -1,0 +1,1 @@
+ convert your audio files to text using whisper.cpp
